@@ -2,7 +2,7 @@ package com.riskyminions.ai;
 
 import com.riskyminions.game.GameState;
 import com.riskyminions.objects.Country;
-import com.riskyminions.util.Score;
+import com.riskyminions.ai.util.Score;
 import java.util.Comparator;
 import java.util.TreeSet;
 
