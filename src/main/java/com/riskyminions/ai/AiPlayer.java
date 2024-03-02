@@ -1,7 +1,8 @@
 package com.riskyminions.ai;
 
 import com.riskyminions.ai.util.AttackHeuristics;
-import com.riskyminions.ai.util.BorderSecurity;
+import com .riskyminions.ai.util.BorderSecurity;
+
 import com.riskyminions.game.GameState;
 import com.riskyminions.main.User;
 import com.riskyminions.objects.Continent;

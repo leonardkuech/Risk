@@ -2,6 +2,7 @@ package com.riskyminions.ai;
 
 import com.riskyminions.game.GameState;
 import com.riskyminions.objects.Country;
+import com.riskyminions.util.Score;
 import java.util.Comparator;
 import java.util.TreeSet;
 
@@ -35,7 +36,7 @@ public class Node implements Comparable {
 
     this.gameState = gameState;
     this.parent = parent;
-    this.score = com.riskyminions.ai.util.Score.calculateScoring(gameState);
+    this.score = Score.calculateScoring(gameState);
     this.depth = depth;
     this.children = new TreeSet<>(Comparator.comparingDouble(Node::getScore));
     this.targetCountry = targetCountry;
@@ -55,7 +56,7 @@ public class Node implements Comparable {
     }
     this.gameState = gameState;
     this.parent = null;
-    this.score = com.riskyminions.ai.util.Score.calculateScoring(gameState);
+    this.score = Score.calculateScoring(gameState);
     this.depth = depth;
     this.children = new TreeSet<>(Comparator.comparingDouble(Node::getScore));
     this.targetCountry = null;
