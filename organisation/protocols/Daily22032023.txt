@@ -1,0 +1,31 @@
+Daily 22.03.23
+
+Today's focus was on finalizing the documents for our first submission
+
+Tasks identified:
+Review Domain model @lkuech @paukaise
+Review Architecture diagram @vstoll
+- Deadline for both: Thursday, 12pm
+
+Create a short description for our third-party library
+
+Ensure that everyone fills out our competence matrix
+- Deadline: Thursday, 12pm
+
+Write progress reports
+- Network: @lgreiner
+- Gameplay: @floribau
+- Frontend: TBD
+- AI: TBD
+- Database: TBD
+- Deadline to send to @vstoll: Thursday 12pm
+
+Align our documents for consistency
+We plan to send our documents to Jan-Nicklas for review @vstoll
+- Deadline: Friday, 10pm
+
+Valentin will adjust our mock-ups to fit our minion-theme
+- Deadline: Thursday, 12pm
+
+Tomorrow, we will integrate maven into our project @lkuech
+On Friday, the "frontend-team" will focus on the GUI to show a running prototype in our presentation @vstoll @lgreiner @paukaise

@@ -1,0 +1,21 @@
+Final submission should include Mini Instructions how to use the application
+
+Janadler recommends to use Maven
+Leo has issues including Maven into the project, Janadler will help us if remains not working
+Tip from Janadler: empty Maven project and copy code or copy Maven files
+
+Presentation for First Submission:
+- @lkuech @lgreiner
+- Deadline for first draft: 28.03.2023, send it to Janadler e.o.d.
+- Deadline for final version: 29.03.2023
+Not everybody has to present, but everyone should be able to answer questions
+Better to let everybody present, so no one will be picked specifically to answer questions
+Focus of the presentation should be: Project Management and approach, include buzzwords like Scrum and Agile, Daily/Weekly sprints
+Atkinson is fan of Modelling -> use non-trivial diagrams, operation contracts, domain model, ...
+
+Leo has a question regarding how to include database into our projects
+We can simply add a SQLite file to our project, locally for every "server"
+No need to use MySQL
+
+Leo doesn't have to pay for his delay because our meeting on Friday wasn't specified clearly enough
+Coming meetings on Fridays have to be announced more clearly (at latest the day before e.o.d.)

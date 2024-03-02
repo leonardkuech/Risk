@@ -1,0 +1,10 @@
+floribau: Delayed 22min (intern)          -> 10€
+lkuech: Delayed 4min (extern)             ->  4€
+hneumann: Grober Unfug (Handball schauen
+          bei Code&Cook                   ->  3€
+lkuech: Delayed 8min (intern)             ->  2€
+paukaise: Delayed 8min (intern)           ->  2€
+hneumann: Grober Unfug (Fehler gepusht)   ->  3€
+
+Total: 24€
+In Kasse: 8€

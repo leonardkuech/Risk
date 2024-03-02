@@ -1,0 +1,7 @@
+Daily 15.03.23:
+
+Today's meeting was a Cook&Code event where we enjoyed dinner and worked in groups on different parts of the project.
+
+Paul, Lukas, and Valentin are primarily working on the frontend and have made progress in creating the first windows for our game. They encountered some challenges but were able to overcome them in the end.
+
+Meanwhile, Hannes, Leo, and Florian have been working on creating various classes in the game objects folder.

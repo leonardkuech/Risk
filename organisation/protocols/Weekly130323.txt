@@ -1,0 +1,16 @@
+Daily 13.03.23:
+With Tutor:
+-	Progress: already pushed some code
+-	Questions regarding next steps for everyone (e.g., network - Lukas)
+-	We have to use multicast for the network according to Jan Nicklas
+-	We agreed on minions as our theme
+-	Next week we want to discuss our midterm submissions with Jan
+
+Group discussion:
+-	We distributed the midterm submission documents in our last meeting, Deadline: 18.03.2023
+   - Use Cases Fully Dressed: @lkuech @paukaise (@floribau)
+   - GUI Mock-ups: @vstoll
+   - Domain Model: @lkuech @paukaise
+   - Operation Contracts: @hneumann
+   - SSDs: @lgreiner @floribau
+-	Frontend team meeting next few days

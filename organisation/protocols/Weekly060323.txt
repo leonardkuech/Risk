@@ -1,0 +1,30 @@
+Protocol
+
+1. Distribution of tasks Excel
+    - Everybody frontend and backend -> no problem, everybody have a look in every area
+2. First classes created -> test classes & Javadoc comments -> info and form requests
+    - form request: /** enter -> template
+    - @author and then ilias name
+    - Meaningful description what happens in the method
+3. Getter & Setter methods - Unit tests
+    - Do we need to document such methods? -> YES! one liner: returns session_id of the user e.g.
+4. How should test classes look like?
+    - Online essays on how to test random things
+    - 10.000 instances created to test functionality
+    - reflection
+5. Gantt chart to adjust again if needed
+    - Mockups about 30 minutes
+    - Bring Use Cases forward
+    - Model Driven Development -> IMPORTANT, Atkinson loves this
+    - Testing & Integration
+    -Databases less time
+6. Neural Network
+    - makes sense in terms of time
+7. Next steps
+    - Everyone makes documents and everyone programs
+    - Split use cases
+    - One person makes it possible to start the program
+    - Individual sub-screens
+    - Databases/Statistics/Profile
+    -Game logic
+    - Network

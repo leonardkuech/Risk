@@ -1,0 +1,47 @@
+Weekly 20.03.2023
+
+- Leo's Commits are not counting in the stats; he seems to be upset
+    - team should try to have similar amount of commits
+
+First Submission Document Feedback:
+  1. Use Cases:
+      - format is right
+      - The Use cases are given in the lecture? Do we need to follow them directly; can we split?
+      - Split into turn phase, troop distribution -> Why did we split? explain that we understood
+      what use cases are for and why we splitted it
+
+  2. Domain Model:
+      - Network does not exist in the real world;
+      - Domain Model is what "exists in the real world";
+      - Domain Model should explain what playing Risiko on an actual board looks like
+      - not explaining the technical implementation
+      - we don't need to follow the classes
+
+  3. SSDs
+      - give titles!
+      - Question: Which design patterns do you use? What thoughts have you done to AI?
+      - Gang of 4 Design Patterns -> prepare for midterm presentation
+      - Tutorial Mode more detailed; explain the single phases
+
+  4. Operation Contracts
+      - How many? Janadler had 11 operation contracts;
+      - What are the most complex methods
+
+  5. Architecture Diagram
+      - still missing;
+
+Presentation:
+1. Team organisations
+2. Kompetenzmatrix
+3. Marketing
+4. Domain Model
+5. SSD
+6. Project Plan
+7. Operation Contracts
+-> how are we organising ourselves, no need to show all documents
+Timeline Diagram -> Gantt Chart e.g.
+
+Question: What problem did occur?
+Slides and video with a small demo;
+
+Corporate Identity -> Paul

@@ -1,0 +1,29 @@
+Protocol 08.03.2023
+
+1. Theme Decision Voting
+    - 2. Weltkrieg
+    - Minions
+    - Viren
+    - Römer
+    -> Minions wins the first vote, need to check with Jan-Nicklas
+    -> 4 Votes for Minions, 2 for Virus
+
+2. First Submission
+   - 18 days
+   - Use Cases nearly done
+    - be done with first submission on 20.03
+    - Architecture Diagram: vstoll
+    - Domain Model: lkuech & paukaise
+    - Gantt Diagram: lgreiner
+    - Operations Contract: hneumann
+    - System Sequence:floribai & lgreiner
+    - Use Cases: all
+
+3. Code n' Cook
+    - Beginning at 7pm on 15.03
+
+4. Frontend
+    - create Mockup of Front Screen
+
+5. Valentin created Mockups
+    - Start with Frontend this weekend
